@@ -8,22 +8,27 @@ Welcome to the Tokyo Trip Planner , your personalized travel companion for plann
 Input destination, duration, and traveler type (Solo, Couple, Family, Friends).
 Auto-suggestions for destinations.
 Light & Dark mode support.
+
 ✈️ Flight Details
 Display origin → destination with flight date and time.
 View and modify booked flight information.
 Mock integration with airline APIs.
+
 🏨 Accommodations
 Horizontal scroll of curated hotel options.
 Check-in/check-out dates, pricing, and hotel images.
 Save favorite stays for later.
+
 📍 Activities & Day Plan
 Daily itinerary with filters by day or activity type.
 List of activities including time slots and descriptions.
 Bookmarking feature for planning the perfect trip.
+
 🔧 Additional Features
 Bottom Navigation bar: Home | Add | Saved | Profile
 Responsive mobile-first UI
 Personalized greeting on the dashboard
+
 🚀 Tech Stack
 Frontend
 React Native (with Expo)
